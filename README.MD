@@ -1,4 +1,4 @@
-# SPIGOT-SERVER-LINUX-1.8
+# SPIGOT-SERVER-1.8
 
 ## DESCRIPTION:
 Here you have the starter pack to run a Minecraft server on Linux.
@@ -13,7 +13,10 @@ So you just have to put your informations where you see : <SOME_TEXT>
 Files you have to configure : `run.sh` `server.properties`
 
 ## HOW TO RUN IT:
+ON LINUX:
 One single command: `./run.sh`
+ON WINDOWS:
+Double click on `run.bat`
 
 ## HOW TO IMPORT MY OWN MAP:
 Put the map folder in the serveur folder and then just write the map folder name in `world=<your_world_name>` in your `server.properties`.
